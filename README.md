@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of your README with dropdown details added for a cleaner, more organized look:
-
----
-
 # StuBit
 
 ![StuBit Logo](path_to_logo)
@@ -66,6 +62,12 @@ StuBit is designed to streamline your study sessions and boost productivity with
 
 [![Watch the video](path_to_video_thumbnail)](path_to_video)
 
+## YouTube Overview
+
+Watch our comprehensive overview of StuBit on YouTube:
+
+[![StuBit Overview](path_to_youtube_thumbnail)](https://www.youtube.com/watch?v=your_video_id)
+
 ## Getting Started
 
 ### Prerequisites
@@ -116,6 +118,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Mention any contributors or resources you used.
 
----
-
-You can replace the placeholder paths with your actual paths for the images and video. Let me know if there’s anything else you’d like to tweak!
