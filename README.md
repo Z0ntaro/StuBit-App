@@ -9,59 +9,83 @@ StuBit is designed to streamline your study sessions and boost productivity with
 ## Features
 
 <details>
-  <summary>Progress Tracker</summary>
+  <summary>Progress Tracker/To-Do List Manager</summary>
   <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true">
   <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true">
   <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
 
 
 Track your study progress with detailed analytics and visual graphs.
-</details>
-
-<details>
-  <summary>To-Do List Manager</summary>
-  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
-  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
-
-
 Manage and organize your tasks with a customizable to-do list.
+
 </details>
 
 <details>
-  <summary>Focus Mode with Timer</summary>
-  ![Focus Mode](path_to_image)
-  Stay focused with a built-in timer that helps you manage study sessions.
+  <summary>Log In/Sign In</summary>
+  <img align = "center" alt="Log in" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(384).png?raw=true">
+  <img align = "center" alt="Sign Up" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(385).png?raw=true">
+  <img align = "center" alt="Logged In Home" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(386).png?raw=true">
+  <img align = "center" alt="Logged In Home Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(400).png?raw=true">
+
+
+Stay focused with a built-in timer that helps you manage study sessions.
+
 </details>
 
 <details>
   <summary>Notes Making & Storage</summary>
-  ![Notes Making & Storage](path_to_image)
-  Create, organize, and store your notes securely.
+  <img align = "center" alt="Notes" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(394).png?raw=true">
+  <img align = "center" alt="Notes Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(397).png?raw=true">
+  <img align = "center" alt="File Storing" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(391).png?raw=true">
+
+Create, organize, and store your notes securely.
+
 </details>
 
 <details>
-  <summary>File Viewer</summary>
-  ![File Viewer](path_to_image)
-  View and manage various types of files directly within the app.
+  <summary>Study Space</summary>
+  <img align = "center" alt="Study" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(387).png?raw=true">
+  <img align = "center" alt="Dark Study" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(399).png?raw=true">
+  
+
+View and manage various types of files directly within the app.
+
 </details>
 
 <details>
   <summary>Curated Playlist</summary>
-  ![Curated Playlist](path_to_image)
-  Enjoy a curated playlist designed to enhance your study environment.
+  <img align = "center" alt="Playlist" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(387).png?raw=true">
+
+Enjoy a curated playlist designed to enhance your study environment.
+
 </details>
 
 <details>
   <summary>AI Bot for Subject Doubts</summary>
-  ![AI Bot](path_to_image)
+
   Get instant help with your study-related questions from our AI-powered bot.
+
 </details>
 
 <details>
   <summary>Collaborative Whiteboard</summary>
-  ![Collaborative Whiteboard](path_to_image)
-  Collaborate with peers on a virtual whiteboard for brainstorming and problem-solving.
+  <img align = "center" alt="Whiteboard Notes" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(389).png?raw=true">
+  
+
+Collaborate with peers on a virtual whiteboard for brainstorming and problem-solving.
+
 </details>
+
+<details>
+  <summary>Profile Page</summary>
+  <img align = "center" alt="Profile" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(395).png?raw=true">
+  <img align = "center" alt="Profile" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(396).png?raw=true">
+  
+
+Customizable profile.
+
+</details>
+
 
 ## Demo Video
 
