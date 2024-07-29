@@ -4,7 +4,7 @@
 
 StuBit is designed to streamline your study sessions and boost productivity with a range of features tailored for students.
 
-![StuBit](https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(383).png?raw=true)
+<img align = "center" alt="StuBit" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(383).png?raw=true">
 
 ## Features
 
