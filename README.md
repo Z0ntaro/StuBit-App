@@ -10,7 +10,7 @@ StuBit is designed to streamline your study sessions and boost productivity with
 
 <details>
   <summary>Progress Tracker</summary>
-  ![Progress Tracker](path_to_image)
+  ![Progress Tracker](src/assets/Screenshot (393).png)
   Track your study progress with detailed analytics and visual graphs.
 </details>
 
