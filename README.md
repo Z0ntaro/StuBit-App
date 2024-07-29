@@ -5,26 +5,14 @@
 StuBit is designed to streamline your study sessions and boost productivity with a range of features tailored for students.
 
 
-## Features
-
-<details>
-  <summary>Progress Tracker/To-Do List Manager</summary>
-  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true">
-  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true">
-  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
-
-
-Track your study progress with detailed analytics and visual graphs.
-Manage and organize your tasks with a customizable to-do list.
+## Features and Pages
 
 </details>
 
 <details>
-  <summary>Log In/Sign In</summary>
+  <summary>Log In/Sign Up</summary>
   <img align = "center" alt="Log in" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(384).png?raw=true">
   <img align = "center" alt="Sign Up" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(385).png?raw=true">
-  <img align = "center" alt="Logged In Home" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(386).png?raw=true">
-  <img align = "center" alt="Logged In Home Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(400).png?raw=true">
 
 
 Stay focused with a built-in timer that helps you manage study sessions.
@@ -32,12 +20,12 @@ Stay focused with a built-in timer that helps you manage study sessions.
 </details>
 
 <details>
-  <summary>Notes Making & Storage</summary>
-  <img align = "center" alt="Notes" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(394).png?raw=true">
-  <img align = "center" alt="Notes Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(397).png?raw=true">
-  <img align = "center" alt="File Storing" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(391).png?raw=true">
+  <summary>Home Page</summary>
+  <img align = "center" alt="Home" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(383).png?raw=true">
+  <img align = "center" alt="Logged In Home" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(386).png?raw=true">
+  <img align = "center" alt="Logged In Home Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(400).png?raw=true">
 
-Create, organize, and store your notes securely.
+Stay focused with a built-in timer that helps you manage study sessions.
 
 </details>
 
@@ -50,6 +38,28 @@ Create, organize, and store your notes securely.
 View and manage various types of files directly within the app.
 
 </details>
+
+<details>
+  <summary>Progress Tracker/To-Do List Manager</summary>
+  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true">
+  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true">
+  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
+
+
+Track your study progress with detailed analytics and visual graphs.
+Manage and organize your tasks with a customizable to-do list.
+
+
+<details>
+  <summary>Notes Making & Storage</summary>
+  <img align = "center" alt="Notes" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(394).png?raw=true">
+  <img align = "center" alt="Notes Dark" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(397).png?raw=true">
+  <img align = "center" alt="File Storing" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(391).png?raw=true">
+
+Create, organize, and store your notes securely.
+
+</details>
+
 
 <details>
   <summary>Curated Playlist</summary>
@@ -88,7 +98,8 @@ Customizable profile.
 
 ## Demo Video
 
-[![Watch the video](path_to_video_thumbnail)](path_to_video)
+[![Watch the video]()](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
+[![Watch the video]()](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
 
 ## YouTube Overview
 
