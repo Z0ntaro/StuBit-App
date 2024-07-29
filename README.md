@@ -112,7 +112,7 @@ Watch our comprehensive overview of StuBit on Linkedin:
 
 ### Prerequisites
 
-- <a href="https://nodejs.org/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Arghyadeep Paul" height="30" width="120" /></a>
+- <a href="https://nodejs.org/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Arghyadeep Paul" width="120" /></a>
 
 ### Installation
 
