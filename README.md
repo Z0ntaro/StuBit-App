@@ -10,9 +10,9 @@ StuBit is designed to streamline your study sessions and boost productivity with
 
 <details>
   <summary>Progress Tracker</summary>
-  ![Progress Tracker](https://github.com/Z0ntaro/StuBit-App/blob/6553f3f4228cfda705410617f618f4a80f999493/src/assets/Screenshot%20(392).png)
-  ![Progress Tracker](https://github.com/Z0ntaro/StuBit-App/blob/935b4de56728f2998394df0b28f56f006004de33/src/assets/Screenshot%20(393).png)
-  ![Progress Tracker Dark Mode](https://github.com/Z0ntaro/StuBit-App/blob/6553f3f4228cfda705410617f618f4a80f999493/src/assets/Screenshot%20(398).png)
+  ![Progress Tracker](https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true)
+  ![Progress Tracker](https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true)
+  ![Progress Tracker Dark Mode](https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true)
   
   Track your study progress with detailed analytics and visual graphs.
 </details>
