@@ -4,15 +4,15 @@
 
 StuBit is designed to streamline your study sessions and boost productivity with a range of features tailored for students.
 
-![StuBit](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+![StuBit](https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(383).png?raw=true)
 
 ## Features
 
 <details>
   <summary>Progress Tracker</summary>
-  <img align = "center" alt="Progress Tracker" width="350" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true">
-  <img align = "center" alt="Progress Tracker" width="350" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true">
-  <img align = "center" alt="Progress Tracker Dark Mode" width="350" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
+  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(392).png?raw=true">
+  <img align = "center" alt="Progress Tracker" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(393).png?raw=true">
+  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
 
 
 Track your study progress with detailed analytics and visual graphs.
@@ -20,8 +20,11 @@ Track your study progress with detailed analytics and visual graphs.
 
 <details>
   <summary>To-Do List Manager</summary>
-  ![To-Do List Manager](path_to_image)
-  Manage and organize your tasks with a customizable to-do list.
+  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
+  <img align = "center" alt="Progress Tracker Dark Mode" width="400" src="https://github.com/Z0ntaro/StuBit-App/blob/main/src/assets/Screenshot%20(398).png?raw=true">
+
+
+Manage and organize your tasks with a customizable to-do list.
 </details>
 
 <details>
