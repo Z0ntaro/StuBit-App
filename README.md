@@ -98,14 +98,14 @@ Customizable profile.
 
 ## Demo Video
 
-[[Watch the video](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
-[[Watch the video](https://www.citypng.com/public/uploads/preview/hd-red-neon-youtube-yt-logo-symbol-sign-icon-png-701751695120411uecvkkjyek.png)(https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
+[Watch Demo 1](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
+[Watch Demo 2](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
 
 ## YouTube Overview
 
-Watch our comprehensive overview of StuBit on YouTube:
+Watch our comprehensive overview of StuBit on Linkedin:
 
-[![StuBit Overview](path_to_youtube_thumbnail)](https://www.youtube.com/watch?v=your_video_id)
+[LinkedIn post](https://www.linkedin.com/posts/arghyadeep-paul-039445204_stubit-studyapp-productivity-activity-7217481139546939392-Gyoa?utm_source=share&utm_medium=member_desktop)
 
 ## Getting Started
 
@@ -133,15 +133,14 @@ Watch our comprehensive overview of StuBit on YouTube:
    ```
 5. **Currently, two official plugins are available**:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast R
+- [`@vitejs/plugin-react`](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [`@vitejs/plugin-react-swc`](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast R
 
 ## Built With
 
 - **React Native** - Mobile framework
 - **Node.js** - Backend
 - **Express** - Server framework
-- **MongoDB** - Database
 
 ## Contributing
 
