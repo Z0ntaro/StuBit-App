@@ -98,14 +98,15 @@ Customizable profile.
 
 ## Demo Video
 
-[Watch Demo 1](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
-[Watch Demo 2](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
+[`Watch Demo 1`](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
+|
+[`Watch Demo 2`](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
 
 ## YouTube Overview
 
 Watch our comprehensive overview of StuBit on Linkedin:
 
-[LinkedIn post](https://www.linkedin.com/posts/arghyadeep-paul-039445204_stubit-studyapp-productivity-activity-7217481139546939392-Gyoa?utm_source=share&utm_medium=member_desktop)
+[`LinkedIn post`](https://www.linkedin.com/posts/arghyadeep-paul-039445204_stubit-studyapp-productivity-activity-7217481139546939392-Gyoa?utm_source=share&utm_medium=member_desktop)
 
 ## Getting Started
 
