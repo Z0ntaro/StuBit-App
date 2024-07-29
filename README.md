@@ -7,7 +7,6 @@ StuBit is designed to streamline your study sessions and boost productivity with
 
 ## Features and Pages
 
-</details>
 
 <details>
   <summary>Log In/Sign Up</summary>
@@ -49,6 +48,7 @@ View and manage various types of files directly within the app.
 Track your study progress with detailed analytics and visual graphs.
 Manage and organize your tasks with a customizable to-do list.
 
+</details>
 
 <details>
   <summary>Notes Making & Storage</summary>
