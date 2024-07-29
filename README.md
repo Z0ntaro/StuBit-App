@@ -98,8 +98,8 @@ Customizable profile.
 
 ## Demo Video
 
-[![Watch the video]()](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
-[![Watch the video]()](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
+[![Watch the video](https://www.citypng.com/public/uploads/preview/hd-red-neon-youtube-yt-logo-symbol-sign-icon-png-701751695120411uecvkkjyek.png)](https://youtu.be/wxWK4tDYAsA?si=9FfkKUgIibVy5-3E)
+[![Watch the video](https://www.citypng.com/public/uploads/preview/hd-red-neon-youtube-yt-logo-symbol-sign-icon-png-701751695120411uecvkkjyek.png)](https://youtu.be/76KTOdedSxc?si=N0rrmT5oNpexw0Fg)
 
 ## YouTube Overview
 
