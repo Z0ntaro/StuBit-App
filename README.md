@@ -1,6 +1,6 @@
 # StuBit
 
-![StuBit Logo](https://github.com/Z0ntaro/StuBit-App/blob/f12da88888b4c47c61905dc25f121d06776f2808/src/assets/StuBit_transparent.png)
+<img align = "center" alt="StuBit Logo" width="100" src="https://github.com/Z0ntaro/StuBit-App/blob/f12da88888b4c47c61905dc25f121d06776f2808/src/assets/StuBit_transparent.png">
 
 ## The Ultimate Study Companion
 
