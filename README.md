@@ -92,6 +92,10 @@ Watch our comprehensive overview of StuBit on YouTube:
    ```bash
    npm start
    ```
+5. **Currently, two official plugins are available**:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast R
 
 ## Built With
 
@@ -116,5 +120,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- Mention any contributors or resources you used.
+- [@reneryu5](https://github.com/reneryu5)
+- [@prakhar](https://github.com/xeloic)
+- [@urfavaries](https://github.com/urfavaries2004)
 
+##This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
+LIVE AT https://stubit.netlify.app/
